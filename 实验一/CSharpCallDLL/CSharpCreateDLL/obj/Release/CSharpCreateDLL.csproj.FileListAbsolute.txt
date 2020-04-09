@@ -1,0 +1,6 @@
+C:\Users\11858\source\repos\CSharpCallDLL\CSharpCreateDLL\bin\Release\CSharpCreateDLL.dll
+C:\Users\11858\source\repos\CSharpCallDLL\CSharpCreateDLL\bin\Release\CSharpCreateDLL.pdb
+C:\Users\11858\source\repos\CSharpCallDLL\CSharpCreateDLL\obj\Release\CSharpCreateDLL.csprojAssemblyReference.cache
+C:\Users\11858\source\repos\CSharpCallDLL\CSharpCreateDLL\obj\Release\CSharpCreateDLL.csproj.CoreCompileInputs.cache
+C:\Users\11858\source\repos\CSharpCallDLL\CSharpCreateDLL\obj\Release\CSharpCreateDLL.dll
+C:\Users\11858\source\repos\CSharpCallDLL\CSharpCreateDLL\obj\Release\CSharpCreateDLL.pdb

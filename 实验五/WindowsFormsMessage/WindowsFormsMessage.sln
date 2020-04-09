@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsMessage", "WindowsFormsMessage\WindowsFormsMessage.csproj", "{9E8FE26B-0106-4FFD-91B8-FDCD86DEA3A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyDataStruct", "CopyDataStruct\CopyDataStruct.csproj", "{FDDD97F3-5FDF-408B-BBDE-8A28739A8938}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E8FE26B-0106-4FFD-91B8-FDCD86DEA3A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E8FE26B-0106-4FFD-91B8-FDCD86DEA3A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E8FE26B-0106-4FFD-91B8-FDCD86DEA3A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E8FE26B-0106-4FFD-91B8-FDCD86DEA3A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDDD97F3-5FDF-408B-BBDE-8A28739A8938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDDD97F3-5FDF-408B-BBDE-8A28739A8938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDDD97F3-5FDF-408B-BBDE-8A28739A8938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDDD97F3-5FDF-408B-BBDE-8A28739A8938}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD4964D3-3AAE-40AC-9BB9-E9FDA33906C4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,27 @@
+﻿<Window x:Class="CSharpCallDLL.Test1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CSharpCallDLL"
+        mc:Ignorable="d"
+        Title="使用windows操作系统提供的DLL，实现对注册表的操作" Height="450" Width="800">
+	<Grid>
+		<Label x:Name="label" Content="对注册表的操作（在HKEY_CURRENT_USER下进行）" HorizontalAlignment="Left" Margin="39,42,0,0" VerticalAlignment="Top" Height="44" Width="706" FontSize="22" FontWeight="Bold"/>
+		<Label x:Name="labelSubKey" Content="项"  Height="40" Width="60" HorizontalAlignment="Left" Margin="39,144,0,0" VerticalAlignment="Top" FontSize="20"/>
+		<Label x:Name="labelKey" Content="键位" Height="40" Width="60" HorizontalAlignment="Left" Margin="39,241,0,0" VerticalAlignment="Top" FontSize="20"/>
+		<Label x:Name="labelKeyValue" Content="键值" Height="40" Width="60" HorizontalAlignment="Left" Margin="39,304,0,0" VerticalAlignment="Top" FontSize="20"/>
+
+		<TextBox x:Name="textSubKey"  Height="40" Width="150" HorizontalAlignment="Left" Margin="130,144,0,0" TextWrapping="Wrap" Text="YourSoftware" VerticalAlignment="Top" FontSize="20"/>
+		<TextBox x:Name="textKey" Height="40" Width="150"  HorizontalAlignment="Left" Margin="130,239,0,0" TextWrapping="Wrap" Text="Version" VerticalAlignment="Top" FontSize="20"/>
+		<TextBox x:Name="textKeyVaule" Height="40" Width="150"  HorizontalAlignment="Left"  Margin="130,304,0,0" TextWrapping="Wrap" Text="1.23" VerticalAlignment="Top" FontSize="20"/>
+
+
+		<Button x:Name="btnCreateSubKey"  Height="40" Width="80" Content="创建项" HorizontalAlignment="Left" Margin="368,144,0,0" VerticalAlignment="Top"  Click="btnCreateSubKey_Click" FontSize="20"/>
+		<Button x:Name="btnOpen" Height="40" Width="80" Content="打开项" HorizontalAlignment="Left" Margin="501,144,0,0" VerticalAlignment="Top"   FontSize="20" Click="btnOpen_Click"/>
+		<Button x:Name="btnDelete" Height="40" Width="80" Content="删除项" HorizontalAlignment="Left" Margin="640,144,0,0" VerticalAlignment="Top"   FontSize="20" Click="btnDelete_Click"/>
+		<Button x:Name="btnCreateKeyValue" Height="40" Width="80" Content="创建键" HorizontalAlignment="Left" Margin="368,276,0,0" VerticalAlignment="Top"  FontSize="20" Click="btnCreateKeyValue_Click"/>
+		<Button x:Name="btnReadKeyValue" Height="40" Width="80" Content="读取键" HorizontalAlignment="Left" Margin="501,276,0,0" VerticalAlignment="Top"   FontSize="20" Click="btnReadKeyValue_Click"/>
+		<Button x:Name="btnDeleteKeyValue" Height="40" Width="80" Content="删除键" HorizontalAlignment="Left" Margin="640,276,0,0" VerticalAlignment="Top"   FontSize="20" Click="btnDeleteKeyValue_Click"/>
+	</Grid>
+</Window>

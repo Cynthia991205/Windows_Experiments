@@ -1,0 +1,15 @@
+C:\Users\11858\source\repos\WpfEvent\WpfEvent\obj\Debug\WpfEvent.csprojAssemblyReference.cache
+C:\Users\11858\source\repos\WpfEvent\WpfEvent\obj\Debug\MainWindow.g.cs
+C:\Users\11858\source\repos\WpfEvent\WpfEvent\obj\Debug\App.g.cs
+C:\Users\11858\source\repos\WpfEvent\WpfEvent\obj\Debug\WpfEvent_MarkupCompile.cache
+C:\Users\11858\source\repos\WpfEvent\WpfEvent\obj\Debug\WpfEvent_MarkupCompile.lref
+C:\Users\11858\source\repos\WpfEvent\WpfEvent\bin\Debug\WpfEvent.exe.config
+C:\Users\11858\source\repos\WpfEvent\WpfEvent\bin\Debug\WpfEvent.exe
+C:\Users\11858\source\repos\WpfEvent\WpfEvent\bin\Debug\WpfEvent.pdb
+C:\Users\11858\source\repos\WpfEvent\WpfEvent\obj\Debug\MainWindow.baml
+C:\Users\11858\source\repos\WpfEvent\WpfEvent\obj\Debug\WpfEvent.g.resources
+C:\Users\11858\source\repos\WpfEvent\WpfEvent\obj\Debug\WpfEvent.Properties.Resources.resources
+C:\Users\11858\source\repos\WpfEvent\WpfEvent\obj\Debug\WpfEvent.csproj.GenerateResource.cache
+C:\Users\11858\source\repos\WpfEvent\WpfEvent\obj\Debug\WpfEvent.csproj.CoreCompileInputs.cache
+C:\Users\11858\source\repos\WpfEvent\WpfEvent\obj\Debug\WpfEvent.exe
+C:\Users\11858\source\repos\WpfEvent\WpfEvent\obj\Debug\WpfEvent.pdb

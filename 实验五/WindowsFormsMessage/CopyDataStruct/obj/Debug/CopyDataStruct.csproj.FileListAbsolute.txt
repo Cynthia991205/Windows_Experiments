@@ -1,0 +1,6 @@
+C:\Users\11858\source\repos\WindowsFormsMessage\CopyDataStruct\bin\Debug\CopyDataStruct.dll
+C:\Users\11858\source\repos\WindowsFormsMessage\CopyDataStruct\bin\Debug\CopyDataStruct.pdb
+C:\Users\11858\source\repos\WindowsFormsMessage\CopyDataStruct\obj\Debug\CopyDataStruct.csprojAssemblyReference.cache
+C:\Users\11858\source\repos\WindowsFormsMessage\CopyDataStruct\obj\Debug\CopyDataStruct.csproj.CoreCompileInputs.cache
+C:\Users\11858\source\repos\WindowsFormsMessage\CopyDataStruct\obj\Debug\CopyDataStruct.dll
+C:\Users\11858\source\repos\WindowsFormsMessage\CopyDataStruct\obj\Debug\CopyDataStruct.pdb

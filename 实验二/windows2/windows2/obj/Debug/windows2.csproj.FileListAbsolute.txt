@@ -1,0 +1,17 @@
+C:\Users\11858\source\repos\windows2\windows2\bin\Debug\windows2.exe.config
+C:\Users\11858\source\repos\windows2\windows2\bin\Debug\windows2.exe
+C:\Users\11858\source\repos\windows2\windows2\bin\Debug\windows2.pdb
+C:\Users\11858\source\repos\windows2\windows2\obj\Debug\windows2.csprojAssemblyReference.cache
+C:\Users\11858\source\repos\windows2\windows2\obj\Debug\MainWindow.g.cs
+C:\Users\11858\source\repos\windows2\windows2\obj\Debug\App.g.cs
+C:\Users\11858\source\repos\windows2\windows2\obj\Debug\windows2_MarkupCompile.cache
+C:\Users\11858\source\repos\windows2\windows2\obj\Debug\windows2_MarkupCompile.lref
+C:\Users\11858\source\repos\windows2\windows2\obj\Debug\MainWindow.baml
+C:\Users\11858\source\repos\windows2\windows2\obj\Debug\windows2.g.resources
+C:\Users\11858\source\repos\windows2\windows2\obj\Debug\windows2.Properties.Resources.resources
+C:\Users\11858\source\repos\windows2\windows2\obj\Debug\windows2.csproj.GenerateResource.cache
+C:\Users\11858\source\repos\windows2\windows2\obj\Debug\windows2.csproj.CoreCompileInputs.cache
+C:\Users\11858\source\repos\windows2\windows2\obj\Debug\windows2.exe
+C:\Users\11858\source\repos\windows2\windows2\obj\Debug\windows2.pdb
+C:\Users\11858\source\repos\windows2\windows2\bin\Debug\MyCom.dll
+C:\Users\11858\source\repos\windows2\windows2\obj\Debug\windows2.csproj.CopyComplete

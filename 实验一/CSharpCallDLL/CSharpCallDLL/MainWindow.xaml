@@ -1,0 +1,37 @@
+﻿<Window x:Class="CSharpCallDLL.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CSharpCallDLL"
+        mc:Ignorable="d"
+        Title="实验一" Height="450" Width="800">
+	<Grid>
+		<Label Content="使用C++创建DLL实现简单的功能，并在C#环境下调用该DLL" HorizontalAlignment="Left" Margin="199,127,0,0" VerticalAlignment="Top" Height="30" Width="366"/>
+		<Label Content="使用C#创建DLL实现简单的功能，并在C#环境下调用该DLL" HorizontalAlignment="Left" Margin="199,294,0,0" VerticalAlignment="Top" Height="30" Width="366"/>
+		<TextBox HorizontalAlignment="Left" Height="34" Margin="75,161,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="73"  Name="a"/>
+		<TextBox HorizontalAlignment="Left" Height="34" Margin="223,161,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="73" Name="b"/>
+		<TextBox HorizontalAlignment="Left" Height="34" Margin="363,161,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="73" Name="c"/>
+		<TextBox HorizontalAlignment="Left" Height="34" Margin="512,161,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="73" Name="sum"/>
+		<TextBox HorizontalAlignment="Left" Height="34" Margin="75,228,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="73" Name="d"/>
+		<TextBox HorizontalAlignment="Left" Height="34" Margin="223,228,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="73" Name="e"/>
+		<TextBox HorizontalAlignment="Left" Height="34" Margin="363,228,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="73" Name="difference"/>
+		<Label Content="+" HorizontalAlignment="Left" Margin="175,170,0,0" VerticalAlignment="Top"/>
+		<Label Content="+" HorizontalAlignment="Left" Margin="315,170,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.92,0.296"/>
+		<Label Content="=" HorizontalAlignment="Left" Margin="465,170,0,0" VerticalAlignment="Top"/>
+		<Label Content="-" HorizontalAlignment="Left" Margin="175,237,0,0" VerticalAlignment="Top"/>
+		<Label Content="=" HorizontalAlignment="Left" Margin="315,237,0,0" VerticalAlignment="Top"/>
+		<Button Content="计算" HorizontalAlignment="Left" Margin="659,161,0,0" VerticalAlignment="Top" Width="76" Height="34" Click="CppSum"/>
+		<Button Content="计算" HorizontalAlignment="Left" Margin="509,232,0,0" VerticalAlignment="Top" Width="76" Height="34" Click="CppDiffer"/>
+		<TextBox HorizontalAlignment="Left" Height="34" Margin="78,340,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="73" x:Name="f"/>
+		<TextBox HorizontalAlignment="Left" Height="34" Margin="226,340,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="73" x:Name="g"/>
+		<TextBox HorizontalAlignment="Left" Height="34" Margin="366,340,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="73" x:Name="CSsum"/>
+		<Label Content="+" HorizontalAlignment="Left" Margin="178,349,0,0" VerticalAlignment="Top"/>
+		<Label Content="=" HorizontalAlignment="Left" Margin="318,349,0,0" VerticalAlignment="Top"/>
+		<Button Content="计算" HorizontalAlignment="Left" Margin="512,344,0,0" VerticalAlignment="Top" Width="76" Height="34" Click="CSSum"/>
+		<Label Content="使用windows操作系统提供的DLL，实现对注册表的操作
+" HorizontalAlignment="Left" Margin="199,29,0,0" VerticalAlignment="Top" Height="30" Width="366"/>
+		<Button Content="点击开始" HorizontalAlignment="Left" Margin="315,72,0,0" VerticalAlignment="Top" Width="84" Height="36" Click="toTest1"/>
+
+	</Grid>
+</Window>

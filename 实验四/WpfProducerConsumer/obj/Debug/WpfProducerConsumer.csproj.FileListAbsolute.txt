@@ -1,0 +1,15 @@
+C:\Users\11858\source\repos\WpfProducerConsumer\bin\Debug\WpfProducerConsumer.exe.config
+C:\Users\11858\source\repos\WpfProducerConsumer\bin\Debug\WpfProducerConsumer.exe
+C:\Users\11858\source\repos\WpfProducerConsumer\bin\Debug\WpfProducerConsumer.pdb
+C:\Users\11858\source\repos\WpfProducerConsumer\obj\Debug\WpfProducerConsumer.csprojAssemblyReference.cache
+C:\Users\11858\source\repos\WpfProducerConsumer\obj\Debug\MainWindow.g.cs
+C:\Users\11858\source\repos\WpfProducerConsumer\obj\Debug\App.g.cs
+C:\Users\11858\source\repos\WpfProducerConsumer\obj\Debug\WpfProducerConsumer_MarkupCompile.cache
+C:\Users\11858\source\repos\WpfProducerConsumer\obj\Debug\WpfProducerConsumer_MarkupCompile.lref
+C:\Users\11858\source\repos\WpfProducerConsumer\obj\Debug\MainWindow.baml
+C:\Users\11858\source\repos\WpfProducerConsumer\obj\Debug\WpfProducerConsumer.g.resources
+C:\Users\11858\source\repos\WpfProducerConsumer\obj\Debug\WpfProducerConsumer.Properties.Resources.resources
+C:\Users\11858\source\repos\WpfProducerConsumer\obj\Debug\WpfProducerConsumer.csproj.GenerateResource.cache
+C:\Users\11858\source\repos\WpfProducerConsumer\obj\Debug\WpfProducerConsumer.csproj.CoreCompileInputs.cache
+C:\Users\11858\source\repos\WpfProducerConsumer\obj\Debug\WpfProducerConsumer.exe
+C:\Users\11858\source\repos\WpfProducerConsumer\obj\Debug\WpfProducerConsumer.pdb

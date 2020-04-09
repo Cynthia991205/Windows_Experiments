@@ -1,0 +1,15 @@
+C:\Users\11858\source\repos\pipe\pipe\obj\Debug\pipeClient.csprojAssemblyReference.cache
+C:\Users\11858\source\repos\pipe\pipe\obj\Debug\MainWindow.g.cs
+C:\Users\11858\source\repos\pipe\pipe\obj\Debug\App.g.cs
+C:\Users\11858\source\repos\pipe\pipe\obj\Debug\pipe_MarkupCompile.cache
+C:\Users\11858\source\repos\pipe\pipe\obj\Debug\pipe_MarkupCompile.lref
+C:\Users\11858\source\repos\pipe\pipe\bin\Debug\pipe.exe.config
+C:\Users\11858\source\repos\pipe\pipe\bin\Debug\pipe.exe
+C:\Users\11858\source\repos\pipe\pipe\bin\Debug\pipe.pdb
+C:\Users\11858\source\repos\pipe\pipe\obj\Debug\MainWindow.baml
+C:\Users\11858\source\repos\pipe\pipe\obj\Debug\pipe.g.resources
+C:\Users\11858\source\repos\pipe\pipe\obj\Debug\pipe.Properties.Resources.resources
+C:\Users\11858\source\repos\pipe\pipe\obj\Debug\pipeClient.csproj.GenerateResource.cache
+C:\Users\11858\source\repos\pipe\pipe\obj\Debug\pipeClient.csproj.CoreCompileInputs.cache
+C:\Users\11858\source\repos\pipe\pipe\obj\Debug\pipe.exe
+C:\Users\11858\source\repos\pipe\pipe\obj\Debug\pipe.pdb

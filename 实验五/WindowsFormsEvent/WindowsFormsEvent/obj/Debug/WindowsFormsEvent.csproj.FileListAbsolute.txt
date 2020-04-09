@@ -1,0 +1,10 @@
+C:\Users\11858\source\repos\WindowsFormsEvent\WindowsFormsEvent\bin\Debug\WindowsFormsEvent.exe.config
+C:\Users\11858\source\repos\WindowsFormsEvent\WindowsFormsEvent\bin\Debug\WindowsFormsEvent.exe
+C:\Users\11858\source\repos\WindowsFormsEvent\WindowsFormsEvent\bin\Debug\WindowsFormsEvent.pdb
+C:\Users\11858\source\repos\WindowsFormsEvent\WindowsFormsEvent\obj\Debug\WindowsFormsEvent.csprojAssemblyReference.cache
+C:\Users\11858\source\repos\WindowsFormsEvent\WindowsFormsEvent\obj\Debug\WindowsFormsEvent.Form1.resources
+C:\Users\11858\source\repos\WindowsFormsEvent\WindowsFormsEvent\obj\Debug\WindowsFormsEvent.Properties.Resources.resources
+C:\Users\11858\source\repos\WindowsFormsEvent\WindowsFormsEvent\obj\Debug\WindowsFormsEvent.csproj.GenerateResource.cache
+C:\Users\11858\source\repos\WindowsFormsEvent\WindowsFormsEvent\obj\Debug\WindowsFormsEvent.csproj.CoreCompileInputs.cache
+C:\Users\11858\source\repos\WindowsFormsEvent\WindowsFormsEvent\obj\Debug\WindowsFormsEvent.exe
+C:\Users\11858\source\repos\WindowsFormsEvent\WindowsFormsEvent\obj\Debug\WindowsFormsEvent.pdb

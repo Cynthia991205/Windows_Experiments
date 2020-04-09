@@ -1,0 +1,5 @@
+C:\Users\11858\source\repos\windows2\MyCom\bin\Release\MyCom.dll
+C:\Users\11858\source\repos\windows2\MyCom\bin\Release\MyCom.pdb
+C:\Users\11858\source\repos\windows2\MyCom\obj\Release\MyCom.csproj.CoreCompileInputs.cache
+C:\Users\11858\source\repos\windows2\MyCom\obj\Release\MyCom.dll
+C:\Users\11858\source\repos\windows2\MyCom\obj\Release\MyCom.pdb

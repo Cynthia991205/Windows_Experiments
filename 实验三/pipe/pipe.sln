@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pipeClient", "pipe\pipeClient.csproj", "{AADEA548-9979-4D27-B8D2-03171E8379CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pipeServer", "pipeServer\pipeServer.csproj", "{DE305DD2-9FB6-47A7-ACD5-50823F98C6CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AADEA548-9979-4D27-B8D2-03171E8379CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AADEA548-9979-4D27-B8D2-03171E8379CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AADEA548-9979-4D27-B8D2-03171E8379CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AADEA548-9979-4D27-B8D2-03171E8379CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE305DD2-9FB6-47A7-ACD5-50823F98C6CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE305DD2-9FB6-47A7-ACD5-50823F98C6CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE305DD2-9FB6-47A7-ACD5-50823F98C6CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE305DD2-9FB6-47A7-ACD5-50823F98C6CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4B7C898-BC1C-4161-AD1E-17EC22A38BF2}
+	EndGlobalSection
+EndGlobal

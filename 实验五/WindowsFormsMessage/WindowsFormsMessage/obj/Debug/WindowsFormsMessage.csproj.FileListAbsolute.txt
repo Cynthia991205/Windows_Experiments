@@ -1,0 +1,14 @@
+C:\Users\11858\source\repos\WindowsFormsMessage\WindowsFormsMessage\bin\Debug\WindowsFormsMessage.exe.config
+C:\Users\11858\source\repos\WindowsFormsMessage\WindowsFormsMessage\bin\Debug\WindowsFormsMessage.exe
+C:\Users\11858\source\repos\WindowsFormsMessage\WindowsFormsMessage\bin\Debug\WindowsFormsMessage.pdb
+C:\Users\11858\source\repos\WindowsFormsMessage\WindowsFormsMessage\bin\Debug\CopyDataStruct.dll
+C:\Users\11858\source\repos\WindowsFormsMessage\WindowsFormsMessage\bin\Debug\CopyDataStruct.pdb
+C:\Users\11858\source\repos\WindowsFormsMessage\WindowsFormsMessage\obj\Debug\WindowsFormsMessage.csprojAssemblyReference.cache
+C:\Users\11858\source\repos\WindowsFormsMessage\WindowsFormsMessage\obj\Debug\WindowsFormsMessage.Form1.resources
+C:\Users\11858\source\repos\WindowsFormsMessage\WindowsFormsMessage\obj\Debug\WindowsFormsMessage.Properties.Resources.resources
+C:\Users\11858\source\repos\WindowsFormsMessage\WindowsFormsMessage\obj\Debug\WindowsFormsMessage.csproj.GenerateResource.cache
+C:\Users\11858\source\repos\WindowsFormsMessage\WindowsFormsMessage\obj\Debug\WindowsFormsMessage.csproj.CoreCompileInputs.cache
+C:\Users\11858\source\repos\WindowsFormsMessage\WindowsFormsMessage\obj\Debug\WindowsFormsMessage.csproj.CopyComplete
+C:\Users\11858\source\repos\WindowsFormsMessage\WindowsFormsMessage\obj\Debug\WindowsFormsMessage.exe
+C:\Users\11858\source\repos\WindowsFormsMessage\WindowsFormsMessage\obj\Debug\WindowsFormsMessage.pdb
+C:\Users\11858\source\repos\WindowsFormsMessage\WindowsFormsMessage\obj\Debug\WindowsFormsMessage.Form2.resources

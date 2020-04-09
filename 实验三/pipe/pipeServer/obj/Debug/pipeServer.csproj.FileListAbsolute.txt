@@ -1,0 +1,15 @@
+C:\Users\11858\source\repos\pipe\pipeServer\bin\Debug\pipeServer.exe.config
+C:\Users\11858\source\repos\pipe\pipeServer\bin\Debug\pipeServer.exe
+C:\Users\11858\source\repos\pipe\pipeServer\bin\Debug\pipeServer.pdb
+C:\Users\11858\source\repos\pipe\pipeServer\obj\Debug\pipeServer.csprojAssemblyReference.cache
+C:\Users\11858\source\repos\pipe\pipeServer\obj\Debug\MainWindow.g.cs
+C:\Users\11858\source\repos\pipe\pipeServer\obj\Debug\App.g.cs
+C:\Users\11858\source\repos\pipe\pipeServer\obj\Debug\pipeServer_MarkupCompile.cache
+C:\Users\11858\source\repos\pipe\pipeServer\obj\Debug\pipeServer_MarkupCompile.lref
+C:\Users\11858\source\repos\pipe\pipeServer\obj\Debug\MainWindow.baml
+C:\Users\11858\source\repos\pipe\pipeServer\obj\Debug\pipeServer.g.resources
+C:\Users\11858\source\repos\pipe\pipeServer\obj\Debug\pipeServer.Properties.Resources.resources
+C:\Users\11858\source\repos\pipe\pipeServer\obj\Debug\pipeServer.csproj.GenerateResource.cache
+C:\Users\11858\source\repos\pipe\pipeServer\obj\Debug\pipeServer.csproj.CoreCompileInputs.cache
+C:\Users\11858\source\repos\pipe\pipeServer\obj\Debug\pipeServer.exe
+C:\Users\11858\source\repos\pipe\pipeServer\obj\Debug\pipeServer.pdb

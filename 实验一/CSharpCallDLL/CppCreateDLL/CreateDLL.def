@@ -1,0 +1,6 @@
+LIBRARY
+
+EXPORTS
+
+test01 @ 1
+test02 @ 2

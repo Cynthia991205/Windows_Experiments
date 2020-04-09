@@ -1,0 +1,5 @@
+C:\Users\11858\source\repos\WpfMessage\CopyDataStruct\bin\Debug\CopyDataStruct.dll
+C:\Users\11858\source\repos\WpfMessage\CopyDataStruct\bin\Debug\CopyDataStruct.pdb
+C:\Users\11858\source\repos\WpfMessage\CopyDataStruct\obj\Debug\CopyDataStruct.csproj.CoreCompileInputs.cache
+C:\Users\11858\source\repos\WpfMessage\CopyDataStruct\obj\Debug\CopyDataStruct.dll
+C:\Users\11858\source\repos\WpfMessage\CopyDataStruct\obj\Debug\CopyDataStruct.pdb

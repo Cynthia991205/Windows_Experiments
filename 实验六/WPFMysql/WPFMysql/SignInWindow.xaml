@@ -1,0 +1,18 @@
+﻿<Window x:Class="WPFMysql.SignInWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFMysql"
+        mc:Ignorable="d"
+        Title="SignInWindow" Height="300" Width="300">
+	<Grid>
+		<Label x:Name="label" Content="Connection to Mysql in LocalHost" HorizontalAlignment="Left" Margin="41,44,0,0" VerticalAlignment="Top"/>
+		<Label x:Name="label2" Content="username" HorizontalAlignment="Left" Margin="40,113,0,0" VerticalAlignment="Top"/>
+		<Label x:Name="label3" Content="password" HorizontalAlignment="Left" Margin="41,162,0,0" VerticalAlignment="Top"/>
+		<TextBox x:Name="UsertextBox" HorizontalAlignment="Left" Height="23" Margin="132,116,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+		<PasswordBox x:Name="passwordBox" HorizontalAlignment="Left" Margin="132,162,0,0" VerticalAlignment="Top" Width="120" Height="26"/>
+		<Button x:Name="button" Content="Sign In" HorizontalAlignment="Left" Margin="177,223,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.149,-0.415" Click="button_Click"/>
+
+	</Grid>
+</Window>
